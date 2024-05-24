@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kidstech/static/css/main.5e1ea6db.css",
+    "main.js": "/kidstech/static/js/main.ecf48c40.js",
+    "index.html": "/kidstech/index.html",
+    "main.5e1ea6db.css.map": "/kidstech/static/css/main.5e1ea6db.css.map",
+    "main.ecf48c40.js.map": "/kidstech/static/js/main.ecf48c40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e1ea6db.css",
+    "static/js/main.ecf48c40.js"
+  ]
+}
